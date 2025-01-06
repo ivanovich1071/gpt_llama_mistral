@@ -13,7 +13,7 @@ nltk.download('punkt_tab')
 
 class MistralChat:
     def __init__(self):
-        self.model = "mistral-nemo"
+        self.model = "lmstudio-community/mistral-nemo-instruct-2407"
         self.api_url = "http://localhost:1234/v1/chat/completions"
         self.headers = {"Content-Type": "application/json"}
 
