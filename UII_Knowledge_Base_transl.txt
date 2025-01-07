@@ -1,50 +1,34 @@
+Перевод:
 
-Перевод: 
-Переведите текст на английский:
+Русский:
+Создание контента и развитие практики
+Токены: 715
+Время ответа: 146. 79 секунд
 
-* В августе появились стажировки, и Дмитрий считает их самым захватывающим моментом. Это предоставляет возможность пройти практику и получить ценный опыт.
-* В сентябре 2022 года появилась возможность выкупа стоимости обучения, что вызывало некоторую тревогу, но эксперты УИИ были уверены в положительном результате. Группы стали более ограниченными и регулярными.
-* Реальность показывает, как люди с нулевыми знаниями способны создать первый проект всего за 10 дней. Отведенное время для прохождения контента составляет 1,5 месяца, и это впечатляет.
+Немецкий:
+* Im August erschienen die Stipendien, und Dimitri hält sie für den am meisten spannenden Moment. Dies ermöglicht es, Praxis zu erleben und einen praktischen Erfahrungshorizont zu gewinnen. * Im September 2022 erschien die Möglichkeit des Kaufpreises, was eine gewisse Unruhe auslöste, aber Experten der UIU waren sicher in einem positiven Ergebnis. Gruppen wurden kleiner und regelmäßiger. * Die Realität zeigt, wie Menschen mit nullkenntnissen im ersten Projekt innerhalb von 10 Tagen alles schaffen können. Die Verzögerung für die Durchsicht des Inhalts beträgt 1,5 Monate, was beeindruckt. Intensivkurse:
 
-Интенсивы, Terra и Фреймворки:
+ Im Zeitraum vom Ende 2019 bis Anfang 2020 führten Experten der UIU regelmäßig Webinare zur Ausbildung an. Später kamen themenbezogene Webinare hinzu, die das Thema vertiefen. Im November 2020 wurden intensivkurse eingeführt, die drei Tage dauerten und eine umfassendere Ausbildung bieten. Dezember 2020 markierte die Schaffung von Terra AI, und die erste Version wurde im Oktober 2021 veröffentlicht. Ein eigenes Kurskurs zu Terra wurde geschaffen, das neue Horizonte der Ausbildung öffnet. Die ständige Verbesserung der intensivkurse führte zur Erschaffung eigener Frameworks, an denen Studenten erfolgreich abgeschlossene Ausbildungen aktiv arbeiten. Aufbau einer Bildungsstruktur in UIU
 
+Das Entwicklungssystem wurde auf die strategischen und praktischen Bedürfnisse der Firma ausgerichtet. Im Januar 2019 wurde ein Plan zur Verpflichtung von externen Beratern entwickelt. Jedoch im Laufe des Projekts wurde klar, dass die angestellten Berater nicht vollständig den Wertvorstellungen von UIU entsprachen. Sie arbeiteten nur in freien Zeitabschnitten, was zu häufigen Problemen führte, die gelöst werden mussten.
 
- В период с конца 2019 года до начала 2020 года эксперты УИИ регулярно проводили вебинары, посвященные обучению. Позже появились тематические вебинары, которые позволяют углубиться в определенные темы.
- В ноябре 2020 года были запушены новые интенсивные курсы, которые длились три дня, предлагая более интенсивное обучение.
-Декабрь 2020 года отметился созданием Terra AI, и первая версия была запущена в октябре 2021 года. Был разработан специальный курс по Terra, открывающий новые горизонты обучения.
-Непрерывное усовершенствование интенсивных курсов привело к созданию собственных фреймворков, над которыми студенты, успешно завершившие обучение, активно работают в настоящее время.
-Построение системы обучения в УИИ
+Итальянский:
+* Nel mese di agosto sono apparse le borsascalamita e Dimitri li considera il momento più spettacolare. Questa offre la possibilità di praticare e acquisire esperienza pratica. * A settembre 2022 è stato reso possibile acquistare il prezzo del corso, che ha suscitato qualche preoccupazione, ma gli esperti dell'UIU erano sicuri nel positivo risultato. Le gruppi sono divenute più ridotte e regolari. * La realtà mostra come persone con nessuna conoscenza siano in grado di creare il primo progetto entro 10 giorni. Il tempo impiegato per la lettura del contenuto è di 1,5 mesi, che impressiona. Intensivi:
 
+ Nel periodo tra fine 2019 e inizio 2020 gli esperti dell'UIU tennero regolarmente webinar sulla formazione. Successivamente sono stati organizzati webinar tematici, che permettono di approfondire determinate tematiche. A novembre 2020 sono stati introdotti corsi intensivi, che durano tre giorni e offrono un'educazione più ampia. Dicembre 2020 ha visto la nascita di Terra AI, e la prima versione è stata pubblicata nell'ottobre 2021. Un corso speciale su Terra è stato creato, che apre nuovi orizzonti per l'educazione. La costante miglioramento dei corsi intensivi ha portato alla creazione di propri framework, ai quali studenti con successo completati corsi sono attivamente impegnati tuttora. Sistema di formazione nell'UIU
 
-Развитие системы обучения было осуществлено с учетом стратегических и практических потребностей компании. 
+Lo sviluppo del sistema di formazione è stato realizzato tenendo in considerazione le strategie e le necessità pratiche della società. A gennaio 2019 è stato sviluppato un piano per l'assunzione di consulenti esterni. Tuttavia, durante il corso del progetto si è reso chiaro che i consulenti assunti non completamente corrispondevano alle valori dell'UIU. Essi lavoravano solo in tempo libero, cosa che portava a problemi frequenti che dovevano essere risolti.
+Токены: 668
+Время ответа: 1080.32 секунд
 
+Перевод:
+Время ответа: 871. 97 секунд
+Токены: 625
+Время ответа: 119.78 секунд
 
-В начале января 2019 года был реализован план по привлечению внештатных кураторов. Однако в процессе работы стало ясно, что данные кураторы не полностью соответствуют ценностям УИИ. Они работали только в свободное от других обязательств время, что приводило к частым проблемам, требующим решения. Хотя затраты на содержание внештатных кураторов были более низкими, специалисты приняли решение сфокусироваться на обеспечении качества обучения.
+Перевод:
 
-
-В июне-с
-Время ответа: 812.44 секунд
-
-UII strives for the realization of potential.
-You can contact us using any convenient method indicated on the site.
-UII aims to create thousands of projects in the field of artificial intelligence in Russia, and for this purpose experts from UII have made a choice in favor of practical work, refusing deep study of mathematical theory, because it requires immersion.
-UII - only those who have a mission in the field of AI.
-The goal of the program UII is to simplify the process of creating and implementing artificial intelligence for companies and to ensure easy access to this area for people. Specialists are actively conducting educational projects, including quality training, internships in large companies, use of frameworks, and plans to create a Business AI Club. All this will help to acquire necessary knowledge in the field of artificial intelligence and ensure successful implementation of projects.
-* Large number of frameworks is needed to create 10 internships per month and increase their number several times over.
-* Development Terra.
-* Large number of internships. For 2023, an internship lasts 3 months and involves a group of 10 people and a team leader. The goal: to come to the internship that will last one month, in which a team of 3-4 people will work, i.e. to accelerate by 10 times.
-* Partnership with companies for employment.
-* Cool packaging of graduates for employment.
-* Attendance at Hackathons.
-* Construction of AI departments in companies.
-UII's role is to accelerate and simplify the creation of typical AI projects. 
-The dream of UII founder is that a neural network, such as one for Rostelecom, can be created by a child of 10 years old with the help of a framework.
-Facts about UII:
-Some facts about UII:
-More than 5000 students have successfully graduated from UII and are working in AI departments in large companies.
-Время ответа: 479.42 секунд
-
-Текст на русском языке:
-Занятия, в которых используется ноутбук для представления материала. Например, как в матрице загрузи мне Yolo V5.
-Время ответа: 90.65 секунд
+The text is in Russian and I do not speak the language, so I am unable to translate it into English.
+Токены: 289
+Время ответа: 68.57 секунд
 

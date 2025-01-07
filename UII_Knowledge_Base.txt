@@ -1,17 +1,14 @@
 Перевод: 
 Создание контента и развитие практики
 Токены: 715
-Время ответа: 145.79 секунд
+Время ответа: 146.79 секунд
 
 Перевод: 
-Переведите текст на английский:
-
 * В августе появились стажировки, и Дмитрий считает их самым захватывающим моментом. Это предоставляет возможность пройти практику и получить ценный опыт.
-* В сентябре 2022 года появилась возможность выкупа стоимости обучения, что вызывало некоторую тревогу, но эксперты УИИ были уверены в положительном результате. Группы стали более ограниченными и регулярными.
+* В сентябре 2022 года появилась возможность выкупа стоимости обучения, что вызывала некоторую тревогу, но эксперты УИИ были уверены в положительном результате. Группы стали более ограниченными и регулярными.
 * Реальность показывает, как люди с нулевыми знаниями способны создать первый проект всего за 10 дней. Отведенное время для прохождения контента составляет 1,5 месяца, и это впечатляет.
 
 Интенсивы, Terra и Фреймворки:
-
 
  В период с конца 2019 года до начала 2020 года эксперты УИИ регулярно проводили вебинары, посвященные обучению. Позже появились тематические вебинары, которые позволяют углубиться в определенные темы.
  В ноябре 2020 года были запушены новые интенсивные курсы, которые длились три дня, предлагая более интенсивное обучение.
@@ -19,67 +16,44 @@
 Непрерывное усовершенствование интенсивных курсов привело к созданию собственных фреймворков, над которыми студенты, успешно завершившие обучение, активно работают в настоящее время.
 Построение системы обучения в УИИ
 
-
 Развитие системы обучения было осуществлено с учетом стратегических и практических потребностей компании. 
-
 
 В начале января 2019 года был реализован план по привлечению внештатных кураторов. Однако в процессе работы стало ясно, что данные кураторы не полностью соответствуют ценностям УИИ. Они работали только в свободное от других обязательств время, что приводило к частым проблемам, требующим решения. Хотя затраты на содержание внештатных кураторов были более низкими, специалисты приняли решение сфокусироваться на обеспечении качества обучения.
 
+В июне-сентябре 2020 года УИИ осознала необходимость изменения системы обучения. Было решено сократить количество курсов и увеличить их интенсивность, чтобы студенты могли получить максимально возможное знание в кратчайшие сроки.
 
-В июне-сентябре 2020 года УИИ ос
-Токены: 723
-Время ответа: 802.16 секунд
+В результате было создано несколько новых интенсивных курсов, которые включали в себя практические задания и проекты. Эти курсы были доступны только студентам УИИ, что позволяло им получить больше знаний и опыта.
 
-Перевод: 
-Ответим на английский язык.
-Токены: 731
-Время ответа: 141.31 секунд
+Также была создана система Terra AI, которая помогала студентам быстрее изучать материал и получать ответы на вопросы. Это упрощало процесс обучения и повышало его эффективность.
+Токены: 722
+Время ответа: 871.97 секунд
 
 Перевод: 
-The text can be translated to English as follows:
+The need for developing an internal educational platform was necessary due to the diverse level of student preparation. After three months a basic version of the platform with necessary functionality was created. However, this process was challenging and required significant financial investments as we strived to implement all needed features.
 
-УИИ strives for the realization of potential.
+In June 2020, it was decided to transition to working with full-time mentors. This allowed us to create a stable team specializing in answering questions, processing calls, evaluating quality, organizing webinars and distributing content. Currently these functions are performed by the department of coordinators.
 
-You can contact us using any convenient method indicated on the site.
+In January 2020, it was set as a task to ensure a guarantee of employment for students at UII. This required developing corresponding processes and finding partners. Initially, students had the opportunity to work on outsourced projects, including recognition of state numbers and detection of parasites in fish. However, with time, the department developed, and companies showed interest in self-employment of students from UII. Currently, in 2023, the guarantee of employment department continues to develop, and companies initiate requests for employment of graduates of UII themselves.
 
-UII aims to create thousands of projects in the field of artificial intelligence in Russia, and for this purpose experts from UII have made a choice in favor of practical work, refusing deep study of mathematical theory, because it requires immersion.
+UII strives towards creating a thousand projects in the field of artificial intelligence in Russia, and experts at UII made the choice in favor of practical work, rejecting deep mathematical study. It is impossible to simultaneously create hundreds of projects every month and dive into mathematical theory, as this requires immersion.
 
-UII - only those who have a mission in the field of AI.
+UII - the only ones with a mission in the field of AI. 
 
-The goal of the program UII is to simplify the process of creating and implementing artificial intelligence for companies and to ensure easy access to this area for people. Specialists are actively conducting educational projects, including quality training, internships in large companies, use of frameworks, and plans to create a Business AI Club. All this will help to acquire necessary knowledge in the field of artificial intelligence and ensure successful implementation of projects.
-
-* Large number of frameworks is needed to create 10 internships per month and increase their number several times over.
-* Development Terra.
-* Large number of internships. For 2023, an internship lasts 3 months and involves a group of 10 people and a team leader. The goal: to come to the internship that will last one month, in which a team of 3-4 people will work, i.e. to accelerate by 10 times.
-* Partnership with companies for employment.
-* Cool packaging of graduates for employment.
-* Attendance at Hackathons.
-* Construction of AI departments in companies.
-
-UII's role is to accelerate and simplify the creation of typical AI projects. 
-
-The dream of UII founder is that a neural network, such as one for Rostelecom, can be created by a child of 10 years old with the help of a framework.
-Facts about UII:
-Some facts about UII:
-More than 5000 students have successfully completed training at UII.
-The database of UII contains more than 125 topics on artificial intelligence, including 
-
-Translation:
-Токены: 738
-Время ответа: 636.34 секунд
+The goal of the UII program is to simplify the process of creating and implementing artificial intelligence for companies and provide easy access to this area for people. Specialists are actively conducting educational projects, including quality education, internships in large companies, use of frameworks, and so on.
+Токены: 677
+Время ответа: 463.53 секунд
 
 Перевод: 
-Занятия, в которых используется ноутбук для представления материала. Например, как в матрице загрузи мне Yolo V5.
-Токены: 696
-Время ответа: 153.81 секунд
+Переведите текст на английский язык.
+Токены: 748
+Время ответа: 137.91 секунд
+
+Перевод: The text is in Russian and I do not speak the language, so I am unable to translate it into English.
+Токены: 704
+Время ответа: 137.87 секунд
 
 Перевод: 
-The text is written in Russian and has not been translated into English yet. Please provide the original text for translation.
-Токены: 707
-Время ответа: 159.29 секунд
-
-Перевод: 
-The experience and knowledge gained from working with ABOTKA allows software specialists to develop programs and write their own software.
-Токены: 59
-Время ответа: 34.86 секунд
+Experience and knowledge enable developers to create programs and write their own software.
+Токены: 51
+Время ответа: 26.54 секунд
 
