@@ -74,7 +74,15 @@ def translate_to_multiple_languages(input_file, output_file, client):
     translations = []
 
     for chunk in chunks:
-        prompt = f"Переведи текст на три языка: русский, немецкий и итальянский:\n{chunk}"
+        prompt = (
+            f"Переведи текст на три языка, предоставляя перевод для каждого языка отдельно. "
+            f"Для каждого языка начни с названия языка, а затем предоставь полный перевод текста. "
+            f"Вот текст для перевода:\n\n"
+            f"Русский:\n{chunk}\n\n"
+            f"Немецкий:\n{chunk}\n\n"
+            f"Итальянский:\n{chunk}\n\n"
+            f"Пожалуйста, предоставь перевод в чётко структурированном формате."
+        )
         start_time = time.time()
         translation, usage = client.generate_response(prompt, max_tokens=3000)
         response_time = time.time() - start_time

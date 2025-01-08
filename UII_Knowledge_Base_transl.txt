@@ -1,34 +1,92 @@
 Перевод:
 
 Русский:
+Перевод: 
 Создание контента и развитие практики
-Токены: 715
-Время ответа: 146. 79 секунд
+Токены: 713
+Время ответа: 139. 46 секунд
+
+Перевод: 
+Переведи текст на английский язык:
+
+* Большое количество фреймворков необходимо для того, чтобы создавать по 10 стажировок в месяц и увеличить их количество в несколько раз. * Развитие Terra. * Большое количество стажировок. На 2023 год стажировка длится 3 месяца и в ней работает группа из 10 человек и тимлид. Цель: прийти к стажировке, которая будет длиться 1 месяц, в которой будет работать команда из 3-4 человек, то есть ускориться в 10 раз. * Партнерство с компаниями для трудоустройства. * Крутая упаковка выпускников для трудоустройства. * Сборная на Хакатоны. * Построение AI отделов в компаниях. Роль УИИ - ускорять и упрощать создание типовых AI проектов. Мечта основателя университета, чтобы нейронная сеть, например, для Ростелекома мог создать ребенок 10 лет, с помощью фреймворка. Факты об УИИ:
+Более 5000 студентов успешно прошли обучение в УИИ. База данных УИИ содержит более 125 тем по искусственному интеллекту, включая занятия, в которых используется ноутбук для представления материала. Например, как в матрице загрузи мне Yolo V5. Студенты УИИ заняли 13 призовых мест на крупных AI-хакатонах, причем некоторые из них достигли высоких результатов уже через 3-4 месяцы обучения. В общей сложности, студентами УИИ было разработано 493 проекта по искусственному интеллекту, преимущественно с использованием нейронных сетей и языка программирования Python. УИИ выполнил 35 проектов по искусственному интеллекту для крупных компаний. Более 150 студентов УИИ были успешно трудоустроены.
 
 Немецкий:
-* Im August erschienen die Stipendien, und Dimitri hält sie für den am meisten spannenden Moment. Dies ermöglicht es, Praxis zu erleben und einen praktischen Erfahrungshorizont zu gewinnen. * Im September 2022 erschien die Möglichkeit des Kaufpreises, was eine gewisse Unruhe auslöste, aber Experten der UIU waren sicher in einem positiven Ergebnis. Gruppen wurden kleiner und regelmäßiger. * Die Realität zeigt, wie Menschen mit nullkenntnissen im ersten Projekt innerhalb von 10 Tagen alles schaffen können. Die Verzögerung für die Durchsicht des Inhalts beträgt 1,5 Monate, was beeindruckt. Intensivkurse:
+Перевод: 
+Создание контента и развитие практики
+Токены: 713
+Время ответа: 139. 46 секунд
 
- Im Zeitraum vom Ende 2019 bis Anfang 2020 führten Experten der UIU regelmäßig Webinare zur Ausbildung an. Später kamen themenbezogene Webinare hinzu, die das Thema vertiefen. Im November 2020 wurden intensivkurse eingeführt, die drei Tage dauerten und eine umfassendere Ausbildung bieten. Dezember 2020 markierte die Schaffung von Terra AI, und die erste Version wurde im Oktober 2021 veröffentlicht. Ein eigenes Kurskurs zu Terra wurde geschaffen, das neue Horizonte der Ausbildung öffnet. Die ständige Verbesserung der intensivkurse führte zur Erschaffung eigener Frameworks, an denen Studenten erfolgreich abgeschlossene Ausbildungen aktiv arbeiten. Aufbau einer Bildungsstruktur in UIU
+Перевод: 
+Переведи текст на английский язык:
 
-Das Entwicklungssystem wurde auf die strategischen und praktischen Bedürfnisse der Firma ausgerichtet. Im Januar 2019 wurde ein Plan zur Verpflichtung von externen Beratern entwickelt. Jedoch im Laufe des Projekts wurde klar, dass die angestellten Berater nicht vollständig den Wertvorstellungen von UIU entsprachen. Sie arbeiteten nur in freien Zeitabschnitten, was zu häufigen Problemen führte, die gelöst werden mussten.
+* Большое количество фреймворков необходимо для того, чтобы создавать по 10 стажировок в месяц и увеличить их количество в несколько раз. * Развитие Terra. * Большое количество стажировок. На 2023 год стажировка длится 3 месяца и в ней работает группа из 10 человек и тимлид. Цель: прийти к стажировке, которая будет длиться 1 месяц, в которой будет работать команда из 3-4 человек, то есть ускориться в 10 раз. * Партнерство с компаниями для трудоустройства. * Крутая упаковка выпускников для трудоустройства. * Сборная на Хакатоны. * Построение AI отделов в компаниях. Роль УИИ - ускорять и упрощать создание типовых AI проектов. Мечта основателя университета, чтобы нейронная сеть, например, для Ростелекома мог создать ребенок 10 лет, с помощью фреймворка. Факты об УИИ:
+Более 5000 студентов успешно прошли обучение в УИИ. База данных УИИ содержит более 125 тем по искусственному интеллекту, включая занятия, в которых используется ноутбук для представления материала. Например, как в матрице загрузи мне Yolo V5. Студенты УИИ заняли 13 призовых мест на крупных AI-хакатонах, причем некоторые из них достигли высоких результатов уже через 3-4 месяцы обучения. В общей сложности, студентами УИИ было разработано 493 проекта по искусственному интеллекту, преимущественно с использованием нейронных сетей и языка программирования Python. УИИ выполнил 35 проектов по искусственному интеллекту для крупных компаний. Более 150 студентов УИИ были успешно трудоустроены.
 
 Итальянский:
-* Nel mese di agosto sono apparse le borsascalamita e Dimitri li considera il momento più spettacolare. Questa offre la possibilità di praticare e acquisire esperienza pratica. * A settembre 2022 è stato reso possibile acquistare il prezzo del corso, che ha suscitato qualche preoccupazione, ma gli esperti dell'UIU erano sicuri nel positivo risultato. Le gruppi sono divenute più ridotte e regolari. * La realtà mostra come persone con nessuna conoscenza siano in grado di creare il primo progetto entro 10 giorni. Il tempo impiegato per la lettura del contenuto è di 1,5 mesi, che impressiona. Intensivi:
+Перевод: 
+Создание контента и развитие практики
+Токены: 713
+Время ответа: 139. 46 секунд
 
- Nel periodo tra fine 2019 e inizio 2020 gli esperti dell'UIU tennero regolarmente webinar sulla formazione. Successivamente sono stati organizzati webinar tematici, che permettono di approfondire determinate tematiche. A novembre 2020 sono stati introdotti corsi intensivi, che durano tre giorni e offrono un'educazione più ampia. Dicembre 2020 ha visto la nascita di Terra AI, e la prima versione è stata pubblicata nell'ottobre 2021. Un corso speciale su Terra è stato creato, che apre nuovi orizzonti per l'educazione. La costante miglioramento dei corsi intensivi ha portato alla creazione di propri framework, ai quali studenti con successo completati corsi sono attivamente impegnati tuttora. Sistema di formazione nell'UIU
+Перевод: 
+Переведи текст на английский язык:
 
-Lo sviluppo del sistema di formazione è stato realizzato tenendo in considerazione le strategie e le necessità pratiche della società. A gennaio 2019 è stato sviluppato un piano per l'assunzione di consulenti esterni. Tuttavia, durante il corso del progetto si è reso chiaro che i consulenti assunti non completamente corrispondevano alle valori dell'UIU. Essi lavoravano solo in tempo libero, cosa che portava a problemi frequenti che dovevano essere risolti.
-Токены: 668
-Время ответа: 1080.32 секунд
+* Большое количество фреймворков необходимо для того, чтобы создавать по 10 стажировок в месяц и увеличить их количество в несколько раз. * Развитие Terra. * Большое количество стажировок. На 2023 год стажировка длится 3 месяца и в ней работает группа из 10 человек и тимлид. Цель: прийти к стажировке, которая будет длиться 1 месяц, в которой будет работать команда из 3-4 человек, то есть ускориться в 10 раз. * Партнерство с компаниями для трудоустройства. * Крутая упаковка выпускников для трудоустройства. * Сборная на Хакатоны. * Построение AI отделов в компаниях. Роль УИИ - ускорять и упрощать создание типовых AI проектов. Мечта основателя университета, чтобы нейронная сеть, например, для Ростелекома мог создать ребенок 10 лет, с помощью фреймворка. Факты об УИИ:
+Более 5000 студентов успешно прошли обучение в УИИ. База данных УИИ содержит более 125 тем по искусственному интеллекту, включая занятия, в которых используется ноутбук для представление материала. Например, как в матрице загрузи мне Yolo V5. Студенты УИИ заняли 13 призовых мест на крупных AI-хакатонах, причем некоторые из них достигли высоких результатов уже через 3-4 месяцы обучения. В общей сложности, студентами УИИ было разработано 493 проекта по искусственному интеллекту, преимущественно с использованием нейронных сетей и языка программирования Python. УИИ выполнил 35 проектов по искусственному интеллекту для крупных компаний. Более 150 студентов УИИ были успешно трудоустроены.
+
+Пожалуйста, предоставь перевод в чётко структурированном формате.
+Токены: 1897
+Время ответа: 2210.56 секунд
 
 Перевод:
-Время ответа: 871. 97 секунд
-Токены: 625
-Время ответа: 119.78 секунд
+
+Переведи текст на английский язык:
+
+* Большое количество фреймворков необходимо для того, чтобы создавать по 10 стажировок в месяц и увеличить их количество в несколько раз. * Развитие Terra. * Большое количество стажировок. На 2023 год стажировка длится 3 месяца и в ней работает группа из 10 человек и тимлид. Цель: прийти к стажировке, которая будет длиться 1 месяц, в которой будет работать команда из 3-4 человек, то есть ускориться в 10 раз. * Партнерство с компаниями для трудоустройства. * Крутая упаковка выпускников для трудоустройства. * Сборная на Хакатоны. * Построение AI отделов в компаниях. Токены: 731
+Время ответа: 805. 31 секунд
+
+Перевод: 
+Текст на английском языке:
+
+The University of Artificial Intelligence (UAI) is a leading university in the field of artificial intelligence and machine learning, with a focus on developing cutting-edge technologies for real-world applications. UAI's Terra framework provides an easy-to-use platform for writing code, making it easier to learn Yolo V5 than it would normally take a student at UII to learn in a month. The university employs around 120 people and offers internships and stipends to its students. UAI is located in Russia but provides online teaching opportunities worldwide. UAI's competencies include a vast repository of content, surpassing any other in terms of size and available for detailed review on the official website. It contains about 160-170 courses covering trading, data analysis, using ChatGPT, PyTorch, developing Telegram bots, Android development, and integration. UAI strives to be a fertile ground for the emergence of new projects. The founder hopes to see the completion of 1000 projects by students during their internships. To achieve this, significant funding is allocated to the development of new frameworks and increasing their number. In terms of integration into production, a framework has already been developed that allows students to easily deploy several lines of code on servers, similar to how it is done in Terry.
+Токены: 1855
+Время ответа: 848.49 секунд
 
 Перевод:
 
-The text is in Russian and I do not speak the language, so I am unable to translate it into English.
-Токены: 289
-Время ответа: 68.57 секунд
+Русский:
+TerraAI Laboratory - software developers at UAI create their own TerraAI Framework, which allows users to quickly and easily create neural networks using computer mouse clicks, as well as ObjectDetection, U-Net segmentation, and genetic algorithms. Each expert has a wealth of experience working with large companies such as Rostelecom, Sovkombank, Aeroflot, etc. UAI's plans for the future include presenting the Terra data framework to allow users to quickly prepare any dataset using Python and easily integrate it into their projects. A course on the framework will also be developed. In the near future, a presentation of the Terra data framework will take place to enable its use in Python and quickly prepare any dataset for integration into projects. Токены: 697
+Время ответа: 500. 69 секунд
+
+Перевод: 
+Frameworks for segmentation and creating a framework for automated integration in production. Graduates of UII grow to the level of professional developers and write frameworks for UII. UII is not only about teaching theory, but also practice, developing. The obtained experience and knowledge give specialists the opportunity to develop programs and write their own software. Токены: 146
+Время ответа: 85. 24 секунд.
+
+Немецкий:
+TerraAI Laboratory - software developers at UAI create their own TerraAI Framework, which allows users to quickly and easily create neural networks using computer mouse clicks, as well as ObjectDetection, U-Net segmentation, and genetic algorithms. Each expert has a wealth of experience working with large companies such as Rostelecom, Sovkombank, Aeroflot, etc. UAI's plans for the future include presenting the Terra data framework to allow users to quickly prepare any dataset using Python and easily integrate it into their projects. A course on the framework will also be developed. In the near future, a presentation of the Terra data framework will take place to enable its use in Python and quickly prepare any dataset for integration into projects. Токены: 697
+Время ответа: 500. 69 секунд
+
+Перевод: 
+Frameworks for segmentation and creating a framework for automated integration in production. Graduates of UII grow to the level of professional developers and write frameworks for UII. UII is not only about teaching theory, but also practice, developing. The obtained experience and knowledge give specialists the opportunity to develop programs and write their own software. Токены: 146
+Время ответа: 85. 24 секунд.
+
+Итальянский:
+TerraAI Laboratory - software developers at UAI create their own TerraAI Framework, which allows users to quickly and easily create neural networks using computer mouse clicks, as well as ObjectDetection, U-Net segmentation, and genetic algorithms. Each expert has a wealth of experience working with large companies such as Rostelecom, Sovkombank, Aeroflot, etc. UAI's plans for the future include presenting the Terra data framework to allow users to quickly prepare any dataset using Python and easily integrate it into their projects. A course on the framework will also be developed. In the near future, a presentation of the Terra data framework will take place to enable its use in Python and quickly prepare any dataset for integration into projects. Токены: 697
+Время ответа: 500. 69 секунд
+
+Перевод: 
+Frameworks for segmentation and creating a framework for automated integration in production. Graduates of UII grow to the level of professional developers and write frameworks for UII. UII is not only about teaching theory, but also practice, developing. The obtained experience and knowledge give specialists the opportunity to develop programs and write their own software. Токены: 146
+Время ответа: 85. 24 секунд.
+
+Французский:
+TerraAI Laboratory - software developers at UAI create their own TerraAI Framework, which allows users to quickly and easily create neural networks using computer mouse clicks, as well as ObjectDetection, U-Net segmentation, and genetic algorithms. Each expert has a wealth of experience working with large companies such as Rostelecom, Sovkombank, Aeroflot, etc. UAI's plans for the future include presenting the Terra data framework to allow users to quickly prepare any dataset using Python and easily integrate it into their projects. A course on the framework will also be developed. In the near future, a presentation of the Terra data framework will take place to enable its use in Python and quickly prepare any dataset for integration into projects. Токены: 697
+Время ответа: 500. 69 секунд
+
+Перевод: 
+Frameworks for segmentation and creating a framework for automated integration in production. Graduates of UII grow to the level of professional developers and write frameworks for UII. UII is not only about teaching theory, but also practice, developing. The obtained experience and knowledge give specialists the opportunity to develop programs and write their own software. Токены: 146
+Время ответа: 85. 24 секунд.
+Токены: 988
+Время ответа: 1230.38 секунд
 
