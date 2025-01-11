@@ -161,7 +161,7 @@ def main():
 
     llama_chat = LlamaChat()
     results = evaluate_model_responses(questions, chunks, chunk_embeddings, llama_chat)
-    save_results_to_csv(results, 'results_llama.csv')
+    save_results_to_csv(results, r'C:\Users\Dell\Documents\GitHub\gpt_llama_mistral\results_llama1.csv')
     analyze_results(results)
 
 if __name__ == "__main__":
